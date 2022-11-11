@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Agustingil97. I am a student of the software development career, close to finishing my studies, 
+- wanting to work, and be able to apply all my knowledge, as well as acquire new knowledge.
+- 
+- 
+- 👀 I’m interested in learning new knowledge about the IT world, and developing myself as a professional.
+- 
+- 
+- 🌱 I’m currently learning SALESFORCE(SOQL, APEX, LWC), JAVA, SPRINGBOOT, PHP, HTML, CSS, JAVASCRIPT (BOOTSTRAP).
